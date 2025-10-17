@@ -1,0 +1,94 @@
+/* ====== ESTILO GENERAL ====== */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Segoe UI", Arial, sans-serif;
+    background-color: #f2f4f7;
+    color: #333;
+    line-height: 1.6;
+    padding: 20px;
+}
+
+/* ====== ENCABEZADO ====== */
+header {
+    background-color: #003366;
+    color: white;
+    padding: 15px 0;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+}
+
+h1, h2, h3 {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+
+/* ====== TABLA DE NAVEGACIÓN ====== */
+table {
+    margin: 20px auto;
+    border-collapse: collapse;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.1);
+}
+
+th {
+    padding: 12px 20px;
+    background-color: #e0e7ef;
+    border-bottom: 2px solid #ccc;
+    font-size: 16px;
+}
+
+th a {
+    text-decoration: none;
+    color: #003366;
+    font-weight: bold;
+}
+
+th a:hover {
+    color: #0078d4;
+}
+
+/* ====== PÁRRAFOS ====== */
+p {
+    max-width: 900px;
+    margin: 10px auto;
+    text-align: justify;
+    background: white;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.05);
+}
+
+/* ====== IMÁGENES ====== */
+img {
+    display: block;
+    margin: 20px auto;
+    max-width: 80%;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+}
+
+/* ====== ENLACES ====== */
+a {
+    color: #0056b3;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #0078d4;
+}
+
+/* ====== PIE DE PÁGINA O REFERENCIAS ====== */
+h3 {
+    margin-top: 30px;
+    color: #003366;
+}
+
