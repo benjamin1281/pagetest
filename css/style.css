@@ -1,4 +1,3 @@
-/* ====== ESTILO GENERAL ====== */
 * {
     margin: 0;
     padding: 0;
@@ -13,7 +12,6 @@ body {
     padding: 20px;
 }
 
-/* ====== ENCABEZADO ====== */
 header {
     background-color: #003366;
     color: white;
@@ -28,8 +26,6 @@ h1, h2, h3 {
     margin-top: 20px;
     margin-bottom: 15px;
 }
-
-/* ====== TABLA DE NAVEGACIÓN ====== */
 table {
     margin: 20px auto;
     border-collapse: collapse;
@@ -55,7 +51,6 @@ th a:hover {
     color: #0078d4;
 }
 
-/* ====== PÁRRAFOS ====== */
 p {
     max-width: 900px;
     margin: 10px auto;
@@ -66,7 +61,6 @@ p {
     box-shadow: 0 1px 4px rgba(0,0,0,0.05);
 }
 
-/* ====== IMÁGENES ====== */
 img {
     display: block;
     margin: 20px auto;
@@ -75,7 +69,6 @@ img {
     box-shadow: 0 2px 8px rgba(0,0,0,0.2);
 }
 
-/* ====== ENLACES ====== */
 a {
     color: #0056b3;
     text-decoration: none;
@@ -86,7 +79,6 @@ a:hover {
     color: #0078d4;
 }
 
-/* ====== PIE DE PÁGINA O REFERENCIAS ====== */
 h3 {
     margin-top: 30px;
     color: #003366;
